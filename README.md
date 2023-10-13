@@ -1,4 +1,4 @@
-# Machine-Learning-Project-with-Iris-Setosa-Dataset-
+# Machine-Learning-Project-with-Iris-Dataset-
 
 
 # Bağımsız Değişkenlerimiz
@@ -14,6 +14,7 @@ array(['setosa', 'versicolor', 'virginica'], dtype='<U10')
 
 Çiçeğimizin 4 bağımsız özelliği ve bunlara bağlı alabileceği 3 bağımlı tür özelliği vardır.
 
+# Kodun Açıklanması 
 1. Aşama olarak iris dataset kütüphaneden hazır olarak getirilir.
 2. Aşama olarak veri öğrenme ve test şeklinde ikiye bölünür. Varsayılan %75 öğrenme , %25 testtir.
 3. Aşama olarak uygun algoritma seçilir . burada sınıflandırma ile bir tür seçimi yapılacağından KNeighborsClassifier algoritması seçildi.
