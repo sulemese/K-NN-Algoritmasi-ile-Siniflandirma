@@ -30,12 +30,14 @@ array(['setosa', 'versicolor', 'virginica'], dtype='<U10')
 
 # Örnek 2 için Bilgiler
 veriler.csv dosyası verileri içermektedir. Bu veriler ile modelin eğitimi ve testi yapılacaktır.
- veri yüklenir.
- Veri seti ülke, boy, kilo, yaş verileri içerir fakat biz bu örnekte boy,kilo,yaş kullanacağımız için iloc komutu kullanarak sadece bu sütunlardan bağımsız değişkenler oluşturulur.
- Bağımlı değişkenler cinsiyet verileridir. 
- Veriler öğrenme ve test olarak bölünür.
- K-NN modeli uygulanır.
- Öğrenme gerçekleştirilir.
- Tahmin elde edilir.
- Confusion Matrix oluşturulur. 
+
+# Kodun Açıklanması
+1. veri yüklenir.
+2. Veri seti ülke, boy, kilo, yaş verileri içerir fakat biz bu örnekte boy,kilo,yaş kullanacağımız için iloc komutu kullanarak sadece bu sütunlardan bağımsız değişkenler oluşturulur.
+3. Bağımlı değişkenler cinsiyet verileridir. 
+4. Veriler öğrenme ve test olarak bölünür.
+5. K-NN modeli uygulanır.
+6. Öğrenme gerçekleştirilir.
+7. Tahmin elde edilir.
+8. Confusion Matrix oluşturulur. 
 
