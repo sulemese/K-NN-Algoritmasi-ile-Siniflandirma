@@ -5,14 +5,14 @@
 
 # Örnek 1 İçin Bilgiler
 
-# Bağımsız Değişkenlerimiz
+Bağımsız Değişkenlerimiz
 iris.feature_names
 ['sepal length (cm)',
  'sepal width (cm)',
  'petal length (cm)',
  'petal width (cm)']
 
- # Bağımlı Değişkenlerimiz
+Bağımlı Değişkenlerimiz
  iris.target_names
 array(['setosa', 'versicolor', 'virginica'], dtype='<U10')
 
