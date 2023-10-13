@@ -2,6 +2,9 @@
 # Örnek 2 : Boy,Kilo,Yaş verilerinden Cinsiyet Sınıflandırması Örneği
 
 <hr>
+
+# Örnek 1 İçin Bilgiler
+
 # Bağımsız Değişkenlerimiz
 iris.feature_names
 ['sepal length (cm)',
