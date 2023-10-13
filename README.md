@@ -1,6 +1,7 @@
-# Machine-Learning-Project-with-Iris-Dataset-
+# Örnek 1 : İris Dataset ile sınıflandırma örneği
+# Örnek 2 : Boy,Kilo,Yaş verilerinden Cinsiyet Sınıflandırması Örneği
 
-
+<hr>
 # Bağımsız Değişkenlerimiz
 iris.feature_names
 ['sepal length (cm)',
